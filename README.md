@@ -1,5 +1,5 @@
 # New project
 
 This project was created from local system
-creted by Sanskar chourasiya
+created by Sanskar chourasiya.
 
